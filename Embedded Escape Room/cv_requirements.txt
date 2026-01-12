@@ -1,0 +1,13 @@
+# Requirements for Finger Counter and Angle Calculator
+
+# Core computer vision libraries
+opencv-python==4.8.1.78
+numpy==1.24.3
+
+# MediaPipe for hand tracking (Finger Counter)
+mediapipe==0.10.7
+
+# Serial communication for Angle Calculator
+pyserial==3.5
+
+# Note: json and time are built-in Python modules, no installation needed
