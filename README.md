@@ -1,5 +1,5 @@
-## Embedded-Escape-Room-Station
-#Embedded escape-room station using Arduino Nano RP2040 with sensor/actuator integration, C control logic, and basic AI-assisted interaction.
+# Embedded-Escape-Room-Station
+##Embedded escape-room station using Arduino Nano RP2040 with sensor/actuator integration, C control logic, and basic AI-assisted interaction.
 
 This project implements an interactive embedded systems station developed as part of a team-based escape room challenge. The system is built around an Arduino Nano RP2040 and integrates multiple sensors and actuators to create a state-driven user interaction.
 
